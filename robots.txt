@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://styletour-dotcom.github.io/eon-marketing/sitemap.xml
